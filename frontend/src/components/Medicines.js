@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
-const API = 'http://127.0.0.1:8000';
+const API = 'https://pharmacy-stock-system-4wh2.onrender.com';
 
 function Medicines() {
   const [medicines, setMedicines] = useState([]);
