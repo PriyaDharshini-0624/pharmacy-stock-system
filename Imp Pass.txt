@@ -1,8 +1,0 @@
-Organization: Pharmacy Stock System
-
-Project name: pharmacy-stock
-
-Pass: Pharmacy_Stock@
-
-Project URL = https://jteefxzzojiclcgkvilf.supabase.co
-Anon Key = sb_publishable_cMrVGbQDANodiT6VYVtzrw_RaXzIWUP
